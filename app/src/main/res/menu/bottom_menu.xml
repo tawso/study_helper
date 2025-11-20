@@ -3,17 +3,21 @@
     <item
         android:id="@+id/menu_home"
         android:title="Главная"
-        android:icon="@drawable/baseline_home_24"/>
+        android:icon="@drawable/home"/>
     <item
         android:id="@+id/menu_schedule"
         android:title="Расписание"
-        android:icon="@drawable/baseline_schedule_24"/>
-    <item
-        android:id="@+id/menu_notes"
-        android:title="Заметки"
-        android:icon="@drawable/outline_123_24"/>
+        android:icon="@drawable/schedule"/>
+<!--    <item-->
+<!--        android:id="@+id/menu_notes"-->
+<!--        android:title="Заметки"-->
+<!--        android:icon="@drawable/note"/>-->
     <item
         android:id="@+id/menu_tasks"
         android:title="Задачи"
-        android:icon="@drawable/outline_123_24"/>
+        android:icon="@drawable/task"/>
+<!--    <item-->
+<!--        android:id="@+id/menu_info"-->
+<!--        android:title="О приложение"-->
+<!--        android:icon="@drawable/info"/>-->
 </menu>
